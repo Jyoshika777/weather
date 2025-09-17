@@ -1,7 +1,7 @@
 # weather-prediction-using-deep learning
 AI Weather Prediction Dashboard
 Welcome to the AI Weather Prediction Dashboard!
-Live Demo: sky-frame.lovable.app
+[SkyFrame Live Demo](https://sky-frame.lovable.app)
 🚀 Overview
 This project is an interactive dashboard to predict the next weather radar frame based on incoming radar images. The model takes exactly 4 input radar frames and produces 1 predicted output frame, along with evaluation metrics like SSIM, PSNR, and MSE.
 📦 Features
@@ -23,7 +23,7 @@ Utilities: OpenCV, imageio, skimage (for metrics), etc.
 🔧 Usage
 Local Setup
 Clone the repository
-git clone https://github.com/yourusername/weather-prediction-dashboard.git
+git clone https://github.com/Jyoshika777/weather.git
 cd weather-prediction-dashboard
 Install backend dependencies
 cd backend
